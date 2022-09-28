@@ -1,6 +1,6 @@
-.Welcome!! Eu sou o Fernando Castro
-.Buscando uma vaga como Desenvolvedor front-end!
-.Estudando React!!
+-Welcome!! Eu sou o Fernando Castro
+-Desenvolvedor front-end!
+
 
 <div align="center">
   <a href="https://github.com/fernandocastro07">
